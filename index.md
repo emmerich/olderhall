@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to the Olderhall blog. Stay awhile and listen.
