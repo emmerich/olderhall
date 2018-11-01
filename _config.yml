@@ -24,6 +24,8 @@ github_username:  emmerich
 linkedin_username: stvhl
 instagram_username: stvnhl_
 
+permalink: /:year/:month/:day/:title:output_ext
+
 # Build settings
 markdown: kramdown
 theme: minima
