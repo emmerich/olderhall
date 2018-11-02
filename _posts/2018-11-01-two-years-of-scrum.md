@@ -67,7 +67,7 @@ Getting everyone physically in a room, to speak for only 1 minute, proved surpri
 
 We tried different approaches - one big standup, a standup of teams of 3-4 people, we changed the time. In the end, we decided it was the physical aspect that proved difficult and we started to use Slack.
 
-**insert image of standup on Slack**
+![Daily Scrum over Slack](/assets/scrum-using-slackbot.png)
 
 Every morning at 9AM Slack reminds us to write our daily updates. People who arrive at 9:35AM can write their update on the bus. People who arrive earlier can write their update straight away and get back to work. Slack's tagging makes it easy for people to know if they're needed by another team member. It also means people outside of the Development Team can check in without disrupting.
 
