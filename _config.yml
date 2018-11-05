@@ -23,6 +23,7 @@ twitter_username: stvhl
 github_username:  emmerich
 linkedin_username: stvhl
 instagram_username: stvnhl_
+google_analytics: "UA-128669064-1"
 
 permalink: /:year/:month/:day/:title:output_ext
 
